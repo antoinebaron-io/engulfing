@@ -1,6 +1,6 @@
 # Engulfing candle
 
-Find bearish or bullish engulfing candle in php ...
+Find bearish or bullish engulfing candles in php ...
 
 I was not satisfied with the function trader_cdlengulfing() from PECL trader
 
