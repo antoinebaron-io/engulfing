@@ -1,6 +1,6 @@
 <?php
 
-function engulfing($open, $high, $low, $close){
+function engulfing(array $open, array $high, array $low, array $close) :array {
 
 	$engulfing = array();
 
