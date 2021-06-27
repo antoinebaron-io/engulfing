@@ -1,4 +1,4 @@
-# Engulfing candle
+# Engulfing candles
 
 Find bearish or bullish engulfing candles in php ...
 
